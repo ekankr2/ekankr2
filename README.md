@@ -1,6 +1,6 @@
-### Hi there 👋, my name is EKAN
+## Hi there 👋, I'm EKAN
 
-I'm a self-taught passionate FrontEnd developer from Korea
+I'm a self-taught passionate developer & designer from Korea
 
 ### My Blog
 <div align=center>
@@ -10,15 +10,15 @@ I'm a self-taught passionate FrontEnd developer from Korea
 </div>
 
 
-###  Languages and Tools:
+##  Languages and Tools:
 <p align="center">
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript" height="30" style="vertical-align:top; margin:4px">
-<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Vue" height="30" style="vertical-align:top; margin:4px"/>
-<img src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" alt="Vue" height="30" style="vertical-align:top; margin:4px"/>
-<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="Vue" height="30" style="vertical-align:top; margin:4px"/>
-<img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Vue" height="30" style="vertical-align:top; margin:4px"/>
-<img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Vue" height="30" style="vertical-align:top; margin:4px"/>
-<img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="Vue" height="30" style="vertical-align:top; margin:4px"/>
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Vue" height="40" style="vertical-align:top; margin:4px"/>
+<img src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg" alt="Vue" height="40" style="vertical-align:top; margin:4px"/>
+<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="Vue" height="40" style="vertical-align:top; margin:4px"/>
+<img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Vue" height="40" style="vertical-align:top; margin:4px"/>
+<img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Vue" height="40" style="vertical-align:top; margin:4px"/>
+<img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="Vue" height="40" style="vertical-align:top; margin:4px"/>
 </p>
 
 ### Stats

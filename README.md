@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm EKAN
 
-I'm a self-taught passionate developer & designer from Korea
+I'm a self-taught passionate developer from Korea
 
 ### My Blog
 <div align=center>

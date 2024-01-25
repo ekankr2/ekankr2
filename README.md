@@ -19,7 +19,7 @@ I'm a self-taught passionate web developer from Korea
 <p>
 <code><img height="20" alt="nodejs" src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg"></code>
 <code><img height="20" alt="react" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"></code>
-<code><img height="20" alt="react" src="https://cdn.worldvectorlogo.com/logos/nextjs-13.svg"></code>
+<code><img height="20" alt="react" src="https://cdn.worldvectorlogo.com/logos/next-js.svg"></code>
 <code><img height="20" alt="spring" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg"></code>
 </p>
 

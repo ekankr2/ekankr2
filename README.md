@@ -26,6 +26,7 @@ I'm a self-taught passionate web developer from Korea
 <p>
 <code><img height="20" alt="aws" src="https://cdn.worldvectorlogo.com/logos/aws-2.svg"></code>
 <code><img height="20" alt="mongodb" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg"></code>
+<code><img height="20" alt="redis" src="https://cdn.worldvectorlogo.com/logos/redis.svg"></code>
 </p>
 
 ### stats

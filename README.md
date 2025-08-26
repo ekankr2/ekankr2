@@ -8,7 +8,6 @@
 
 ###  I use
 <p>
-<code><img height="24" alt="javascript" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"></code>
 <code><img height="24" alt="typescript" src="https://cdn.worldvectorlogo.com/logos/typescript.svg"></code>
 <code><img height="24" alt="nodejs" src="https://cdn.worldvectorlogo.com/logos/nodejs-2.svg"></code>
 <code><img height="24" alt="nextjs" src="https://cdn.worldvectorlogo.com/logos/next-js.svg"></code>

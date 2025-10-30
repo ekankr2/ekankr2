@@ -24,5 +24,5 @@
 </p>
 
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ekankr2&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ekan's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekankr2&layout=compact&theme=buefy&hide_border=true&hide=vue" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ekankr2&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ekan's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekankr2&layout=compact&theme=buefy&hide_border=true&1=1" /> |
 | ------------- | ------------- |
